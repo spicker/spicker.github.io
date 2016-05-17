@@ -1,3 +1,3 @@
 # spicker.github.io
 
-[elm-pling](spicker.github.io/elm-pling/Index.html)
+[elm-pling](spicker.github.io/elm-pling/index.html)
